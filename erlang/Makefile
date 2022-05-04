@@ -1,0 +1,2 @@
+all:
+	escript flights.escript
