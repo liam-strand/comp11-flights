@@ -1,6 +1,7 @@
 #### USER ####
 .DS_Store
 flights
+.vscode
 
 #### C/C++ ####
 
